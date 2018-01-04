@@ -1,5 +1,5 @@
 ---
-title:  "Resume - Matthieu Leorat"
+title:  "Resume"
 permalink: resume.html
 ---
 # Matthieu Leorat
