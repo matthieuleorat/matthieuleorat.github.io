@@ -2,10 +2,10 @@
 title:  "Resume"
 permalink: resume.html
 ---
-# Web developper - Symfony
+## Web developper - Symfony
 
-## Experiences
+### Experiences
 
-## Skills & tools
+### Skills & tools
 
-## Trainings
+### Trainings
