@@ -4,17 +4,15 @@ permalink: resume.html
 ---
 ## Web developper - Symfony
 
-### Experiences
+### Personal Details
 
 ### Skills & tools
 
-### Trainings
-**2009**: Maîtrise en Ingénierie de la Cognition, de la Création, et des
-Apprentissages spécialité Double Compétences :
-Informatique et Sciences Sociales – Pierre Mendès France
+### Work experience
 
-**2008**: Licence professionnelle Activités et Techniques de Communication
-mention webmaster éditorial écrituresélectronique à l’Institut de la
-Communication et des Médias - Stendhal Grenoble 3.
+### Education
+**2009**: Master's Degree - Cognition Engineering, Computing system and social sciences – Pierre Mendès France university
 
-**2007**: DUT Réseaux et Télécommunications à l’IUT 1 de Grenoble
+**2008**: Bachelor’s Degree - Communication activity and Technical at ICM - Stendhal Grenoble 3.
+
+**2007**: Two-year university  - Network and Telecommunications - IUT 1 Grenoble
