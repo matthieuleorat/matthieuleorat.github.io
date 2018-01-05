@@ -1,10 +1,13 @@
 ---
 title:  "Resume"
-permalink: resume.html
+permalink: resume
 ---
 ## Web developper - Symfony
 
 ### Personal Details
+- Leave in Grenoble, France
+- 31 years old
+- email: matthieu.leorat@protonmail.com
 
 ### Skills & tools
 
