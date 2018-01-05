@@ -12,6 +12,9 @@ permalink: resume
 ### Skills & tools
 
 ### Work experience
+| | Want to appear here ? Contact me :) |
+| Since 2016-10 | Symfony Engineer for [La compagnie hyperactive](https://www.compagnie-hyperactive.com/) |
+
 
 ### Education
 **2009**: Master's Degree - Cognition Engineering, Computing system and social sciences – Pierre Mendès France university
