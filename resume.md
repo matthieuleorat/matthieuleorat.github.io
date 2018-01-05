@@ -5,7 +5,7 @@ permalink: resume
 ## Web developper - Symfony
 
 ### Personal Details
-- Leave in Grenoble, France
+- Live in Grenoble, France
 - 31 years old
 - email: matthieu.leorat@protonmail.com
 
