@@ -1,25 +1,30 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-01-04 18:24:27 +0100
-categories: jekyll update
+title:  "Install Ruby on Ubuntu"
+date:   2018-01-08 16:00:27 +0100
+categories: ubuntu
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Default install of Ruby on Ubuntu is not good.
+1. Remove actual installation
+`sudo apt-get remove ruby`
+`sudo apt autoremove`
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+2. Update & install necessary packages
+`sudo apt-get update`
+`sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev`
 
-Jekyll also offers powerful support for code snippets:
+3. Download Ruby environnement: rbenv
+`git clone https://github.com/rbenv/rbenv.git ~/.rbenv`
+`echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc`
+`echo 'eval "$(rbenv init -)"' >> ~/.bashrc`
+`exec $SHELL`
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+4. Download Ruby
+`git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build`
+`echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc`
+`exec $SHELL`
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+5. Install Ruby
+`rbenv install 2.3.1`
+`rbenv global 2.3.1`
+`ruby -v`

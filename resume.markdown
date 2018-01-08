@@ -12,8 +12,12 @@ permalink: resume
 ### Skills & tools
 
 ### Work experience
-| | Want to appear here ? Contact me :) |
-| Since 2016-10 | Symfony Engineer for [La compagnie hyperactive](https://www.compagnie-hyperactive.com/) |
+Want to appear here ? Contact me :)
+
+
+|||
+|---|---|
+| Since 2016-10 | Symfony Engineer for [La compagnie hyperactive](https://www.compagnie-hyperactive.com/), in full remote |
 
 
 ### Education
