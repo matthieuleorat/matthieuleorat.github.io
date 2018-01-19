@@ -8,15 +8,15 @@ categories: deployer symfony
 For symfony 2: `require 'recipe/symfony.php';`
 For symfony 3: `require 'recipe/symfony3.php';`
 
-FosJsRouting
+## FosJsRouting
 If you use FosJsRouting and assetic, you have to execture the fosjsrouting dump commande before dumping assetic.
 
 1. Create the task:
-```
+{% raw %}
 task('deploy:dump:jsrouting', function () {
     run('{{bin/php}} {{bin/console}} fos:js-routing:dump {{console_options}}');
 });
-```
+{% raw %}
 2. Call this task in your deployement script before calling assetic one
 ```
 task('deploy', [
