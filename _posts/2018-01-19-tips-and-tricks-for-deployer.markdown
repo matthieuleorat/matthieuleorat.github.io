@@ -16,7 +16,8 @@ If you use FosJsRouting and assetic, you have to execture the fosjsrouting dump 
 task('deploy:dump:jsrouting', function () {
     run('{{bin/php}} {{bin/console}} fos:js-routing:dump {{console_options}}');
 });
-{% raw %}
+{% endraw %}
+
 2. Call this task in your deployement script before calling assetic one
 ```
 task('deploy', [
