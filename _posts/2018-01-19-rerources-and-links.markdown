@@ -12,3 +12,7 @@ A page referencing a lot of resources, for every job (designers, project manager
 ## Javascript
 Collection of javascript snippets that you can understand in 30 seconds
 [https://github.com/Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) (en)
+
+## Docker & Symfony
+Exemples of docker configured for Symfony application
+[https://github.com/mykiwi/symfony-bootstrapped](https://github.com/mykiwi/symfony-bootstrapped) (en)
