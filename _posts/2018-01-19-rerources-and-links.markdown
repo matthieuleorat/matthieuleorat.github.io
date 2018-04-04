@@ -7,16 +7,16 @@ categories: resources links
 
 ## Accessibility
 A page referencing a lot of resources, for every job (designers, project managers, developpers...)
-[http://gta2017.access42.net/2/ressources/](http://gta2017.access42.net/2/ressources/) (fr)
+- [http://gta2017.access42.net/2/ressources/](http://gta2017.access42.net/2/ressources/) (fr)
 
 ## Javascript
 Collection of javascript snippets that you can understand in 30 seconds
-[https://github.com/Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) (en)
+- [https://github.com/Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) (en)
 
 ## Docker & Symfony
 Exemples of docker configured for Symfony application
-[https://github.com/mykiwi/symfony-bootstrapped](https://github.com/mykiwi/symfony-bootstrapped) (en)
+- [https://github.com/mykiwi/symfony-bootstrapped](https://github.com/mykiwi/symfony-bootstrapped) (en)
 
 ## Integration
 Ressources for email integration
-[https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4) (en)
+- [https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4) (en)
