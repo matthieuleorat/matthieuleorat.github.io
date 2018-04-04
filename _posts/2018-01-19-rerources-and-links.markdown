@@ -16,3 +16,7 @@ Collection of javascript snippets that you can understand in 30 seconds
 ## Docker & Symfony
 Exemples of docker configured for Symfony application
 [https://github.com/mykiwi/symfony-bootstrapped](https://github.com/mykiwi/symfony-bootstrapped) (en)
+
+## Integration
+Ressources for email integration
+[https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4) (en)
