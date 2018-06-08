@@ -20,3 +20,7 @@ Exemples of docker configured for Symfony application
 ## Integration
 Ressources for email integration
 - [https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4) (en)
+
+## Css
+Css tips
+- [https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37](https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37) (en)
