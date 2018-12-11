@@ -26,3 +26,8 @@ Want to appear here ? Contact me :)
 **2008**: Bachelor’s Degree - Communication activity and Technical at ICM - Stendhal Grenoble 3.
 
 **2007**: Two-year university  - Network and Telecommunications - IUT 1 Grenoble
+
+
+### Readings
+- [Qualité Web](https://shop.opquast.com/livres/9-livre-qualite-web.html). Opquast
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/gp/product/1449373321/ref=dbs_a_def_rwt_bibl_vppi_i0). Martin Kleppmann
